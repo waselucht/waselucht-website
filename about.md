@@ -14,7 +14,7 @@ We meten fijn stof: PM10 en PM2.5. Dit zijn ultra kleine stofdeeltjes die vooral
 
 # Hoe wordt er gemeten ?
 
-Met behulp van een lage kost meettoestel kunnen de temperatuur, luchtvochtigheid en fijn stof concentraties worden gemeten. Een mini computer met wifi verbinding zorgt voor het verzamelen en doorsturen van de gegevens. Twee afvoer-bochten bieden bescherming tegen weer en wind. Het geheel kost ongeveer 40 euro.
+Met behulp van een budget vriendelijk meettoestel kunnen de temperatuur, luchtvochtigheid en fijn stof concentraties worden gemeten. Een mini computer met wifi verbinding zorgt voor het verzamelen en doorsturen van de gegevens. Twee afvoer-bochten bieden bescherming tegen weer en wind. Het geheel kost ongeveer 40 euro.
 
 ![Afbeelding fijn stof meetinstrument](/assets/Feinstaub-Sensor-Bausatz-e1479558693357-300x175.jpg)
 
