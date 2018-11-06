@@ -22,7 +22,7 @@ _MONTHS = {1: 'januari',
            7: 'juli',
            8: 'augustus',
            9: 'september',
-           10: 'october',
+           10: 'oktober',
            11: 'november',
            12: 'december'}
 
