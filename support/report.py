@@ -3,6 +3,7 @@ import matplotlib.patches as mpatches
 from calendar import monthrange
 import pandas as pd
 import luftdaten
+from datetime import datetime, timedelta
 
 # TODO use locale to get abrivated weekdays and month names
 _WEEKDAYS = {0: 'ma',
@@ -54,14 +55,20 @@ def _get_bin(x, bins):
 
 
 def _get_rolling_daily_max(sensor, start_date, end_date, window, tz):
-    # TODO check for center of window and min_periods
-    sensor.get_measurements(start_date=start_date, end_date=end_date)
+    fmt = '%Y-%m-%d'
+    extended_start_date = (datetime.strptime(start_date, fmt) -
+                           timedelta(days=1)).strftime(fmt)
+    extended_end_date = (datetime.strptime(end_date, fmt) +
+                         timedelta(days=1)).strftime(fmt)
+    sensor.get_measurements(start_date=extended_start_date,
+                            end_date=extended_end_date)
     if tz:
         index = sensor.measurements.index.tz_convert(tz)
         sensor.measurements.index = index
     r24h = sensor.measurements.rolling(window).mean()
     rdm = r24h.groupby(pd.Grouper(freq='D')).max()
-    return rdm
+
+    return rdm[(rdm.index >= start_date) & (rdm.index <= end_date)]
 
 
 def _plot_basic_month_phenomena_overview(rdm, bins, colors, who_guideline):
@@ -101,7 +108,7 @@ def _plot_basic_month_phenomena_overview(rdm, bins, colors, who_guideline):
         ax.add_patch(p)
 
     # add bin color info and WHO guideline
-    # assumption is that WHO falls in bin boundary
+    # assumption is that WHO falls on bin boundary
     # quick and dirty
     y = -6.75
     plt.text(-r_outer_circle, y, str(0), horizontalalignment='center')
