@@ -16,7 +16,7 @@ permalink: /meedoen/
 
 Helaas is er geen kant en klare oplossing. Je kan dus niet een *bakske* kopen en ergens ophangen. Het *bakske* bouw je zelf.
 
-Nu zou het best wel kunnen dat u bij voorkeur de zelfbouw stap wil overslaan. Andere steden lossen dit op door workshops te organiseren. Dit kan betekenen dat een aantal mensen samenkomen en sensors bouwen voor anderen of dat iedereen een sensor voor zichzelf bouwt onder begeleiding. Mogelijks doen we dit in het Waasland ook, dit zal afhangen van de interesse en mogelijkheden. Je kan je lid maken van onze [facebookgroep][facebook-waselucht] om hierover op de hoogte te blijven.
+Nu zou het best wel kunnen dat u bij voorkeur de zelfbouw stap wil overslaan, of onder begeleiding een toestel wil bouwen. Laat het ons weten op info@waselucht.be of via onze [facebookgroep][facebook-waselucht]. We hebben al een workshop achter de rug waar we samen toestellen bouwen en uitleggen hoe het toestel te gebruiken. Bij voldoende interesse herhalen we dat initiatief. Je kan onze [facebookgroep][facebook-waselucht] *leuk vinden* of *volgen* om hierover op de hoogte te blijven.
 
 Zelfbouw voor u geen probleem? Dan kan u er meteen invliegen. De afbeelding hieronder geeft een overzicht van alle onderdelen. Voor gedetailleerde bestel, bouw en plaatsings informatie zie [luftdaten.info][luftdaten.info].
 
