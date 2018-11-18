@@ -6,7 +6,7 @@ permalink: /info/
 
 # Wat is ons doel?
 
-[waselucht.be][waselucht.be] is een burgerinitatief om de luchtkwaliteit in het Waasland in kaart te brengen. We willen daarbij het wiel niet opnieuw uitvinden, maar gebruik maken van de burgerinitiatieven die elders al succesvol zijn gebleken. Meer concreet maakt [waselucht.be][waselucht.be] gebruik van het [luftdaten.info][luftdaten.info] project van [OK Lab Stuttgart][OK_Lab_Stuttgart], dit is een burgerinitiatief ontstaan in Stuttgart dat reeds in de meeste steden in Duitsland navolging kreeg. Dichter bij maken [Leuven][leuvenair.be] en [Brussel][influencair.be] er ook gebruik van. 
+[waselucht.be][waselucht.be] is een burgerinitatief om de luchtkwaliteit in het Waasland in kaart te brengen. We willen daarbij het wiel niet opnieuw uitvinden, maar gebruik maken van de burgerinitiatieven die elders al succesvol zijn gebleken. Meer concreet maakt [waselucht.be][waselucht.be] gebruik van het [luftdaten.info][luftdaten.info] project van [OK Lab Stuttgart][OK_Lab_Stuttgart], dit is een burgerinitiatief ontstaan in Stuttgart dat reeds in de meeste steden in Duitsland navolging kreeg. Dichter bij maken [Leuven][leuvenair.be] en [Brussel][influencair.be] er ook gebruik van. Ongeveer 6000 toestellen (waarvan 400 in Belgie) verdeeld over 53 landen zijn momenteel actief (cijfers November 2018).
 
 # Wat wordt er gemeten?
 
