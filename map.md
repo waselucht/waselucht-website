@@ -12,8 +12,9 @@ Zowel de gegevens van de burger-toestellen als van [Irceline (Intergewestelijke 
 
 <!--
 <iframe src="https://maps.luftdaten.info/#13/51.1627/4.1564" frameborder="0" height="600" width="100%"> </iframe>
--->
 <iframe src="http://map.influencair.be/#/?zoom=11&lat=51.160507050366796&lng=4.133262634277345" frameborder="0" height="600" width="100%"> </iframe>
+-->
+<iframe src="http://leuvenair.be/map/?20181103#/?lat=51.16209831111995&lng=4.160728454589845&zoom=12" frameborder="0" height="600" width="100%"> </iframe>
 
 
 [irceline]: http://www.irceline.be
