@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "#OpenDataDay #CivicLabBXL"
 date:   2018-03-03 20:49:22 +0100
 ---

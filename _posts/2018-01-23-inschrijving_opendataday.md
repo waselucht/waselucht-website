@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Inschrijving #OpenDataDay"
 date:   2018-01-23 23:10:01 +0100
 ---

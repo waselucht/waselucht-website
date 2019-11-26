@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "geurhinder meten"
 date:   2019-01-30 22:26:32 +0100
 ---

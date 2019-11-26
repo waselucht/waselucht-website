@@ -1,0 +1,36 @@
+/* ==========================================================================
+   MegaWattPuur skin
+   ========================================================================== */
+
+/*
+   Typography
+   ========================================================================== */
+
+$global-font-family: Garamond, serif !default;
+
+/*
+   Colors
+   ========================================================================== */
+
+/* Colors */
+$green                      : #36b729 !default;
+$dark-green                 : mix(#000, $green, 40%) !default;
+$darker-green               : mix(#000, $green, 60%) !default;
+$light-green                : mix(#fff, $green, 50%) !default;
+$lighter-green              : mix(#fff, $green, 90%) !default;
+$blue                       : #50bce3 !default;
+
+$primary-color              : $blue !default;
+$info-color                 : $blue !default;
+
+$border-color               : $blue !default;
+$form-background-color      : $blue !default;
+$footer-background-color    : $blue !default;
+$code-background-color      : $blue !default;
+$code-background-color-dark : $blue !default;
+
+/*
+   Breakpoints
+   ========================================================================== */
+
+$x-large: 1600px !default;

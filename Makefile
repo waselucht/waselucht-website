@@ -8,4 +8,5 @@ serve:
 
 .PHONY:release
 release: site
+	cp .htaccess _site
 	cd _site; rsync -PaAXz . $(USER)@$(WEB_SERVER):$(SITE_PATH)

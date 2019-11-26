@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "workshop sensor bouwen"
 date:   2019-01-02 19:26:32 +0100
 ---

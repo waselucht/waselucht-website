@@ -1,0 +1,9 @@
+main:
+  - title: "info"
+    url: /info
+  - title: "meedoen"
+    url: /meedoen
+  - title: "kaart"
+    url: /kaart
+  - title: "nieuws"
+    url: /nieuws

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Installatie sensor"
 date:   2018-03-04 17:21:32 +0100
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Maandoverzicht fijn stof metingen"
 date:   2018-11-07 22:04:12 +0100
 ---

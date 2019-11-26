@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "najaar 2019 - workshops sensor bouwen"
 date:   2019-06-13 21:13:19 +0100
 ---
